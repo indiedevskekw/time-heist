@@ -49,6 +49,7 @@ ExportedObj/
 *.mdb.meta
 
 #asset meta files
+*.meta
 *.ai.meta
 *.png.meta
 
